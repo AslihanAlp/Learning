@@ -1,7 +1,7 @@
   name: Features CI/CD
 
 on:
-  push:
+  [push]
     branches:
       - main
 
